@@ -36,14 +36,20 @@ html{
 
 
 .infosection {
-    color: rgb(163, 163, 163);
+    color:antiquewhite;
     line-height: 1.4em;
     width: 15rem;
+    padding: 2rem;
+}
+
+.backstory{
+    color: antiquewhite;
+    text-align:center;
     padding: 2rem;
 }
 
 .teams{
     color: antiquewhite;
     text-align: center;
-
+    padding:2rem;
 }
